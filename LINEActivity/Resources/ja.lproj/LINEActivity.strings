@@ -1,0 +1,12 @@
+/* 
+  LINEActivity.strings
+  LINEActivityDemo
+
+  Created by Tanaka Katsuma on 2013/11/06.
+  Copyright (c) 2013年 Katsuma Tanaka. All rights reserved.
+*/
+
+"alert_title" = "LINEが見つかりません";
+"alert_message" = "AppStoreからLINEをインストールしますか？";
+"alert_button_cancel" = "キャンセル";
+"alert_button_open" = "インストール";
