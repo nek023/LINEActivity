@@ -23,12 +23,14 @@
 
 - (UIImage *)activityImage
 {
-    // Check if it runs on iOS 7 or not
+    NSString *imageName = @"LINEActivityImage";
+    
+    // Check whether it runs on iOS 7 or not
     if ([[[UIDevice currentDevice] systemVersion] floatValue] >= 7.0) {
-        return [UIImage imageNamed:@"LINEActivityImage-iOS7"];
-    } else {
-        return [UIImage imageNamed:@"LINEActivityImage"];
+        imageName = [imageName stringByAppendingString:@"-iOS7"];
     }
+    
+    return [UIImage imageNamed:imageName];
 }
 
 - (NSString *)activityTitle
