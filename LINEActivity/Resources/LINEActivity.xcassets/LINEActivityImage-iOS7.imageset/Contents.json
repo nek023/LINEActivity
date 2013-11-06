@@ -1,14 +1,14 @@
 {
   "images" : [
     {
-      "idiom" : "universal",
+      "idiom" : "iphone",
       "scale" : "1x",
-      "filename" : "LINEActivityImage-iOS7.png"
+      "filename" : "LINEActivityImage-iOS7~iphone.png"
     },
     {
-      "idiom" : "universal",
+      "idiom" : "iphone",
       "scale" : "2x",
-      "filename" : "LINEActivityImage-iOS7@2x.png"
+      "filename" : "LINEActivityImage-iOS7@2x~iphone.png"
     },
     {
       "idiom" : "ipad",

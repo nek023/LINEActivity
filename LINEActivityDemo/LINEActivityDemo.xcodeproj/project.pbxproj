@@ -18,7 +18,7 @@
 		AA6AD0B8182A2970003E100F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA6AD0B7182A2970003E100F /* Images.xcassets */; };
 		AAB00E22182A7F5E001D0134 /* LINEActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB00E1C182A7F5E001D0134 /* LINEActivity.m */; };
 		AAB00E23182A7F5E001D0134 /* LINEActivity.strings in Resources */ = {isa = PBXBuildFile; fileRef = AAB00E1E182A7F5E001D0134 /* LINEActivity.strings */; };
-		AAB00E24182A7F5E001D0134 /* LINEActivity.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAB00E21182A7F5E001D0134 /* LINEActivity.xcassets */; };
+		AAB00E26182A8394001D0134 /* LINEActivity.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAB00E25182A8394001D0134 /* LINEActivity.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,7 +41,7 @@
 		AAB00E1C182A7F5E001D0134 /* LINEActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LINEActivity.m; sourceTree = "<group>"; };
 		AAB00E1F182A7F5E001D0134 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/LINEActivity.strings; sourceTree = "<group>"; };
 		AAB00E20182A7F5E001D0134 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LINEActivity.strings; sourceTree = "<group>"; };
-		AAB00E21182A7F5E001D0134 /* LINEActivity.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = LINEActivity.xcassets; sourceTree = "<group>"; };
+		AAB00E25182A8394001D0134 /* LINEActivity.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = LINEActivity.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,7 +135,7 @@
 			isa = PBXGroup;
 			children = (
 				AAB00E1E182A7F5E001D0134 /* LINEActivity.strings */,
-				AAB00E21182A7F5E001D0134 /* LINEActivity.xcassets */,
+				AAB00E25182A8394001D0134 /* LINEActivity.xcassets */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -197,7 +197,7 @@
 				AAB00E23182A7F5E001D0134 /* LINEActivity.strings in Resources */,
 				AA6AD0AA182A2970003E100F /* InfoPlist.strings in Resources */,
 				AA6AD0B3182A2970003E100F /* Main.storyboard in Resources */,
-				AAB00E24182A7F5E001D0134 /* LINEActivity.xcassets in Resources */,
+				AAB00E26182A8394001D0134 /* LINEActivity.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
